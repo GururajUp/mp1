@@ -1,0 +1,127 @@
+.class1{
+    width: 100%;
+    height: 70%;
+    background-color: #ffcd9e;
+}
+.class12{
+    position: fixed;
+    left: 60%;
+    top: 6px;
+    
+}
+
+.class3{
+    width: 40%;
+    height: 90%;
+}
+.class4{
+    position: fixed;
+    width: 500px;
+    height: 70px;
+    top: 20px;
+    left: 95px;
+    font-family: Inter;
+font-size: 28px;
+font-weight: 600;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.class5{
+    position: fixed;
+    width: 480px;
+    height: 70px;
+    top: 150px;
+    left: 95px;
+    font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.class6{
+    position: fixed;
+    left: 95px;
+    width: 400px;
+    height: 50px;
+    top: 250px;
+    font-family: Inter;
+font-size: 20px;
+font-weight: 800;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.class7{
+    position: fixed;
+    left: 95px;
+    width: 350px;
+    height: 50px;
+    top: 320px;
+    border-radius: 8px;
+    border: 4px solid;
+}
+::placeholder{
+    position: fixed;
+    left: 20px;
+    size: 25px;
+    font-weight: 400;
+}
+.class8{
+    position: fixed;
+    width: 200px;
+height: 50px;
+top: 320px;
+left: 460px;
+border-radius: 8px;
+color: white;
+background: linear-gradient(0deg, #000000, #000000),
+    linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    border: 4px solid #000000;
+
+}
+.f1{
+    width: 100%;
+    height: 30%;
+    background-color: black;
+    display: flex;
+
+}
+.class9{
+    color: white;
+    width: 50%;
+    margin-left: 130px;
+    font-family: Inter;
+font-size: 15px;
+font-weight: 200;
+line-height: 20px;
+
+}
+.class10{
+    color: white;
+    width: 30%;
+    text-align: end;
+    font-family: Inter;
+font-size: 15px;
+font-weight: 200;
+line-height: 20px;
+}
+.class11{
+    position: fixed;
+    width: 250px;
+    left: 105;
+    height:50px;
+    top: 380px;
+    color: white;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: center;
+
+}
